@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348564593206",
+    "project_id": "navigation-drawer-211d4",
+    "storage_bucket": "navigation-drawer-211d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348564593206:android:9d76a7633cf2e5677fd697",
+        "android_client_info": {
+          "package_name": "com.coetusstudio.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348564593206-es4g0m1b2m4k0hh9ig9cautkot5kov2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi2YQmBdq3U0i0IsE03m8rpPYGKKiUtME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348564593206-es4g0m1b2m4k0hh9ig9cautkot5kov2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

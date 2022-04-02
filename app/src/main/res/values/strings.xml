@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IIMT Faculty</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">IIMT University is a private university situated in Meerut, West U.P., North India. It has been established under Uttar Pradesh Act Number 32 of 2016. Gazette notified by the Government of Uttar Pradesh Dated 16 September, 2016.</string>
+</resources>
